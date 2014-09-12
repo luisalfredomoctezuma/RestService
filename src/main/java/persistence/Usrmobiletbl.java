@@ -25,6 +25,7 @@ import javax.xml.bind.annotation.XmlRootElement;
  *
  * @author Luis Alfredo Moctezu
  */
+
 @Entity
 @Table(name = "usrmobiletbl")
 @XmlRootElement
